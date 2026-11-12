@@ -641,16 +641,6 @@ In this TODO, we’ll fix the `speed` bug 🐛 by calculating `speed` using a li
 
 <br><br><br><br>
 
-## Explore Bonus Challenges
-
-We've compiled a list of optional **bonus challenges** for you to take this project to the next level.
-
-- Access them on [GitHub here](https://github.com/OperationSpark/bouncing-box/blob/master/BONUS_CHALLENGES.md)
-
-<!-- 4 line breaks between TODOs -->
-
-<br><br><br><br>
-
 ## **TODO 9: Go Live**
 
 🎯 **Goal:** Push your changes to GitHub and make your bouncing box game go live.
